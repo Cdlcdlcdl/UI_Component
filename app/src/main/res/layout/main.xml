@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+<TableRow   android:gravity="center">
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:text="SimpleAdapter"
+        />
+</TableRow>
+<TableRow  android:gravity="center">
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="AlertDialog" />
+    </TableRow >
+    <TableRow  android:gravity="center">
+    <Button
+    android:id="@+id/btn3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:text="XmlMenu" />
+    </TableRow>
+    <TableRow  android:gravity="center">
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="action_mode" />
+    </TableRow>
+</TableLayout>
