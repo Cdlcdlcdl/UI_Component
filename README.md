@@ -4,7 +4,7 @@
 ![](https://i.loli.net/2019/03/28/5c9cca0155916.png)
 
 1.SimpleAdapter
-''android''
+'''android
 package com.example.pc;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -71,6 +71,6 @@ public class SimpleAdapter extends Activity {
 
     };
 }
-''android''
+'''
 
 ![](https://i.loli.net/2019/03/28/5c9cca72610a7.png)
